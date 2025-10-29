@@ -18,5 +18,6 @@ solution: S(n)=θ(n)
 - **4)**
 The pattern I recongize is that the counts are the fibonachi numbers themselves. This means that the most computations are happening to the smallest problems.For example while finding f5, f1 is computed 5 times (counts=5).
 - **6)**
-The max number of calls will happen the first time at f1, therefore the work is W(n)=O(n) and the span is S(n)=O(n)
+The max number of calls is 1 time for any i, therefore the work is W(n)=O(n) and the span is S(n)=O(n)
 - **8)**
+The max number of calls is 2 times for any i, therefore the work is W(n)=O(n) and the span is S(n)=O(n)
